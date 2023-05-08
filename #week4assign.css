@@ -1,0 +1,47 @@
+
+.header{
+padding: auto;
+text-align: left;
+background-color: rgb(60, 35, 17);
+color: azure;
+font-size: larger;
+}
+
+.body{
+    background-image: url("front_end\diamond1.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+ 
+.hope{
+ background-color: rgb(218, 232, 244);
+ position: relative;  
+ text-align: left; 
+ color: rgb(22, 12, 12);
+ font-size: medium;
+}  
+#left{
+ background-color: aliceblue; 
+ text-align: left; 
+ position: absolute; 
+ color: rgb(48, 24, 24);
+ font-size: smaller;
+}
+#right{
+background-color: rgb(32, 28, 28);
+text-align: right;
+position: absolute;
+color: rgb(164, 175, 185);
+font-size: smaller;
+}
+
+.footer{
+background-color: black;
+text-align: center;
+font-size: xx-small;
+color: bisque;
+}
