@@ -1,0 +1,26 @@
+table,th,td{
+    border-bottom: 1px solid #cb1d1d;
+
+}
+table{
+    border: 1px solid black;
+}
+table{
+    width: 100%;
+    /* this is to remove dimancations */
+    /* border-collapse: collapse; */
+    }
+td{
+    text-align: center;
+}
+th{
+    height: 50px;
+    text-align: left;
+}
+th,td{
+    padding: 15px;
+}
+   /* this is to show select or pointer sign */
+tr:hover {background-color:rgb(46, 48, 42);}
+/* this is to create arrange colored lines */
+/* tr:nth-child(even) {background-color: yellowgreen;} */
